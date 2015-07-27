@@ -1,0 +1,2 @@
+# statics
+css, js
