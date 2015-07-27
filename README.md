@@ -1,2 +1,3 @@
 # statics
-css, js
+jquery
+bootstrap
